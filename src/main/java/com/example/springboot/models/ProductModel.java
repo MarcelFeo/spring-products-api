@@ -1,4 +1,4 @@
-/*
+
 package com.example.springboot.models;
 
 import jakarta.persistence.*;
@@ -44,4 +44,3 @@ public class ProductModel implements Serializable {
         this.value = value;
     }
 }
-*/
