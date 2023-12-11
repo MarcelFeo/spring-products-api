@@ -1,12 +1,11 @@
-
 package com.example.springboot.models;
 
 import jakarta.persistence.*;
 
 import java.io.Serial;
 import java.io.Serializable;
-import java.util.UUID;
 import java.math.BigDecimal;
+import java.util.UUID;
 
 @Entity
 @Table(name = "TB_PRODUCTS")
