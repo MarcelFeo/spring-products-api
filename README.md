@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esta API fornece um serviço para gerenciamento de produtos. Os produtos são representados por dois campos: nome e valor.
+Esta API foi desenvolvida utilizando o framework SpringBoot e fornece um serviço para gerenciamento de produtos.
 
 ## Requisitos
 
